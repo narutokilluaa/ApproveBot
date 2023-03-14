@@ -25,7 +25,7 @@
         },
         "CHAT_ID": {
             "description": "Working Group ID",
-            "value": ""
+            "value": "-1001532325721"
         },
         "APPROVED_WELCOME": {
             "description": "APPROVED_WELCOME On Or Off",
